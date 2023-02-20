@@ -12,5 +12,5 @@ _____
 _____
 
 ## Ссылка на страницу:
-https://github.com/TaisiyaSleptsova/russian-travel
+
 _____
