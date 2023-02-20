@@ -7,19 +7,19 @@
   padding-top: 28px;
 }
 
-@media screen and (max-width : 1200px) {
+@media screen and (max-width: 1200px) {
   .header {
     max-width: calc(100% - 96px);
   }
 }
 
-@media screen and (max-width : 900px) {
+@media screen and (max-width: 900px) {
   .header {
     max-width: calc(100% - 48px);
   }
 }
 
-@media screen and (max-width : 320px) {
+@media screen and (max-width: 320px) {
   .header {
     max-width: calc(100% - 32px);
     min-height: 42px;
