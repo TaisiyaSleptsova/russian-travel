@@ -2,6 +2,10 @@
   margin: 0 0 26px;
 }
 
+.place__text:last-of-type {
+  margin-bottom: 0;
+} 
+
 @media screen and (max-width: 1200px) {
   .place__text {
     margin-bottom: 27px;
@@ -11,10 +15,7 @@
 @media screen and (max-width: 900px) {
     .place__text {
       margin-bottom: 25px;
-    }
-    .place__text:last-of-type {
-      margin-bottom: 0;
-    }   
+    }      
   }
 
 

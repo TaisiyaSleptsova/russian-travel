@@ -11,7 +11,7 @@
 
 @media screen and (max-width: 600px) {
   .footer__link {
-    margin: 0 0 32px;
+    margin-bottom: 32px;
     line-height: 56px;
   }    
 }

@@ -1,11 +1,17 @@
 .footer {
   display: flex;
   justify-content: space-between;
-  max-width: calc(100% - 96px);
+  max-width: calc(1280px - 96px);
   font-weight: 400;
   font-size: 16px;
   line-height: 18px;
   margin: 0 auto 0;
+}
+
+@media screen and (max-width: 1200px) {
+  .footer {
+    max-width: calc(100% - 96px);
+  }  
 }
 
 @media screen and (max-width: 900px) {
